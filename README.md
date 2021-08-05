@@ -1,2 +1,1 @@
-# Python_Crash_Course
-Python Crash Course Homework
+# Python Crash Course Homework
